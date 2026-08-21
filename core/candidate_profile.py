@@ -1,0 +1,1 @@
+generate_candidate_profile()

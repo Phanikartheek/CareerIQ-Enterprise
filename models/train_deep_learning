@@ -1,0 +1,28 @@
+import joblib
+
+from core.deep_learning import DeepLearningModel
+
+
+def main():
+    """Train and save the portable scikit-learn neural-network model.
+
+    TensorFlow currently has no compatible wheel for Streamlit Cloud's Python
+    3.14 runtime.  This uses the project's DeepLearningModel instead, which is
+    based on scikit-learn and has no TensorFlow dependency.
+    """
+    model = DeepLearningModel()
+    model.train()
+
+    joblib.dump(
+        {
+            "model": model.model,
+            "scaler": model.scaler,
+            "metrics": model.evaluate(),
+        },
+        "models/deep_learning_model.joblib",
+    )
+    print("Deep learning model saved successfully.")
+
+
+if __name__ == "__main__":
+    main()

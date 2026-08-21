@@ -1,0 +1,59 @@
+Skill,Category
+Python,Programming
+Java,Programming
+C++,Programming
+JavaScript,Programming
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+MongoDB,Database
+NumPy,Data Science
+Pandas,Data Science
+Matplotlib,Data Visualization
+Plotly,Data Visualization
+Scikit-learn,Machine Learning
+TensorFlow,Deep Learning
+PyTorch,Deep Learning
+XGBoost,Machine Learning
+LightGBM,Machine Learning
+EDA,Analytics
+Statistics,Analytics
+Feature Engineering,Machine Learning
+Regression,Machine Learning
+Classification,Machine Learning
+Clustering,Machine Learning
+NLP,Artificial Intelligence
+spaCy,Artificial Intelligence
+NLTK,Artificial Intelligence
+TF-IDF,Artificial Intelligence
+BERT,Artificial Intelligence
+Sentence Transformers,Artificial Intelligence
+OpenAI,Generative AI
+Gemini,Generative AI
+Ollama,Generative AI
+LangChain,Generative AI
+Streamlit,Deployment
+Git,Tools
+GitHub,Tools
+Docker,DevOps
+Linux,Operating System
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+Power BI,Business Intelligence
+Excel,Analytics
+PowerPoint,Office
+Word,Office
+Communication,Soft Skill
+Leadership,Soft Skill
+Problem Solving,Soft Skill
+Teamwork,Soft Skill
+Time Management,Soft Skill
+HVAC,Facility Management
+Electrical Maintenance,Facility Management
+DG Operations,Facility Management
+STP,WTP
+Fire Fighting,Facility Management
+BMS,Facility Management
+Energy Management,Facility Management
+Preventive Maintenance,Facility Management

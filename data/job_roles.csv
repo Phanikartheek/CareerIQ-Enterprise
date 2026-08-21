@@ -1,0 +1,65 @@
+Department,Job Role
+Information Technology,Python Developer
+Information Technology,Java Developer
+Information Technology,Full Stack Developer
+Information Technology,Backend Developer
+Information Technology,Frontend Developer
+Information Technology,Software Engineer
+Information Technology,Senior Software Engineer
+Information Technology,Technical Lead
+Information Technology,System Administrator
+Information Technology,Application Support Engineer
+
+Data Science & AI,Data Analyst
+Data Science & AI,Business Analyst
+Data Science & AI,Machine Learning Engineer
+Data Science & AI,AI Engineer
+Data Science & AI,Deep Learning Engineer
+Data Science & AI,NLP Engineer
+Data Science & AI,Computer Vision Engineer
+Data Science & AI,GenAI Engineer
+Data Science & AI,Data Scientist
+
+Cloud Computing,AWS Engineer
+Cloud Computing,Azure Engineer
+Cloud Computing,GCP Engineer
+Cloud Computing,Cloud Architect
+
+Cyber Security,Cyber Security Analyst
+Cyber Security,SOC Analyst
+Cyber Security,Penetration Tester
+Cyber Security,Ethical Hacker
+
+DevOps,DevOps Engineer
+DevOps,Site Reliability Engineer
+DevOps,Docker Engineer
+DevOps,Kubernetes Engineer
+
+Facility Management,Technical Manager
+Facility Management,Shift Engineer
+Facility Management,Electrical Engineer
+Facility Management,HVAC Engineer
+Facility Management,Maintenance Engineer
+Facility Management,BMS Engineer
+Facility Management,MEP Engineer
+Facility Management,Facility Executive
+Facility Management,Operations Manager
+
+Human Resources,HR Executive
+Human Resources,Talent Acquisition Specialist
+Human Resources,HR Manager
+
+Finance & Accounting,Accountant
+Finance & Accounting,Financial Analyst
+Finance & Accounting,Finance Manager
+
+Marketing,Digital Marketing Executive
+Marketing,SEO Specialist
+Marketing,Content Writer
+
+Sales,Sales Executive
+Sales,Business Development Executive
+Sales,Key Account Manager
+
+Project Management,Project Manager
+Project Management,Program Manager

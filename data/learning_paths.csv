@@ -1,0 +1,21 @@
+Skill,Category,Difficulty,Duration,Course,Project
+Python,Programming,Beginner,30 Days,Python Bootcamp,Build Portfolio Website
+NumPy,Data Science,Beginner,5 Days,NumPy Complete Guide,Data Cleaning Project
+Pandas,Data Science,Beginner,7 Days,Pandas Masterclass,EDA Dashboard
+SQL,Database,Beginner,15 Days,SQL for Data Analysis,Sales Database Project
+Power BI,Visualization,Intermediate,20 Days,Power BI Dashboard,Executive Dashboard
+Excel,Analytics,Beginner,10 Days,Advanced Excel,Financial Dashboard
+Machine Learning,AI,Intermediate,45 Days,ML A-Z,House Price Prediction
+Deep Learning,AI,Advanced,45 Days,TensorFlow Developer,CNN Image Classifier
+TensorFlow,AI,Advanced,30 Days,TensorFlow Bootcamp,Image Recognition
+PyTorch,AI,Advanced,30 Days,PyTorch Fundamentals,Neural Network Project
+NLP,AI,Advanced,30 Days,NLP Specialization,Resume Analyzer
+Streamlit,Deployment,Beginner,7 Days,Streamlit Masterclass,AI Dashboard
+Git,Version Control,Beginner,5 Days,Git Essentials,GitHub Portfolio
+GitHub,Version Control,Beginner,3 Days,GitHub Complete Guide,Open Source Portfolio
+Docker,DevOps,Intermediate,15 Days,Docker Essentials,Containerized AI App
+AWS,Cloud,Intermediate,30 Days,AWS Cloud Practitioner,Deploy ML Model
+Azure,Cloud,Intermediate,30 Days,Azure Fundamentals,Cloud Deployment
+LLM,GenAI,Advanced,30 Days,LLM Engineering,AI Chatbot
+LangChain,GenAI,Advanced,20 Days,LangChain Bootcamp,RAG Chatbot
+Ollama,GenAI,Intermediate,10 Days,Ollama Guide,Local AI Assistant

@@ -1,0 +1,285 @@
+/* ===========================================================
+Resume Intelligence AI
+Enterprise Theme v11.0
+Author : Vellanki phanikartheek
+=========================================================== */
+
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* Main App */
+html,
+body,
+[class*="css"]{
+    font-family:'Poppins',sans-serif;
+}
+
+/* Background */
+
+.stApp{
+    background:#0d1117 !important;
+    color: #e6edf3 !important;
+}
+
+/* Main content text */
+.stApp p, .stApp li, .stApp label {
+    color: #e6edf3 !important;
+}
+
+.stApp h1, .stApp h2, .stApp h3, .stApp h4 {
+    color: #ffffff !important;
+}
+
+/* Hide Streamlit Menu */
+
+#MainMenu{
+    visibility:hidden;
+}
+
+footer{
+    visibility:hidden;
+}
+
+header{
+    visibility:hidden;
+}
+
+/* =======================================
+Title
+======================================= */
+
+.main-title{
+
+    font-size:42px;
+
+    font-weight:700;
+
+    color:#60a5fa;
+
+}
+
+.sub-title{
+
+    font-size:18px;
+
+    color:#94a3b8;
+
+}
+
+/* =======================================
+Cards
+======================================= */
+
+.card{
+
+    background: #111827 !important;
+
+    padding:25px;
+
+    border-radius:15px;
+
+    box-shadow:0px 8px 25px rgba(0,0,0,.4);
+
+    border:1px solid #334155;
+
+    transition:.3s;
+
+    color: white !important;
+
+}
+
+.card h2, .card h3, .card p {
+    color: white !important;
+}
+
+.card:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0px 15px 35px rgba(0,0,0,.6);
+
+}
+
+/* =======================================
+Metric Cards
+======================================= */
+
+.metric-card{
+
+    background:linear-gradient(
+
+    135deg,
+
+    #2563EB,
+
+    #1E40AF
+
+    );
+
+    color:white;
+
+    border-radius:15px;
+
+    padding:20px;
+
+}
+
+/* =======================================
+Buttons
+======================================= */
+
+.stButton>button{
+
+    width:100%;
+
+    border-radius:10px;
+
+    background:#2563EB;
+
+    color:white;
+
+    font-weight:600;
+
+    border:none;
+
+    height:45px;
+
+}
+
+.stButton>button:hover{
+
+    background:#1D4ED8;
+
+}
+
+/* =======================================
+Sidebar
+======================================= */
+
+section[data-testid="stSidebar"]{
+
+    background:#0F172A;
+
+}
+
+section[data-testid="stSidebar"] *{
+
+    color:white;
+
+}
+
+/* =======================================
+Tables
+======================================= */
+
+table{
+
+    border-radius:10px;
+
+    overflow:hidden;
+
+}
+
+/* =======================================
+Progress Bar
+======================================= */
+
+.stProgress>div>div>div{
+
+    background:#22C55E;
+
+}
+
+/* =======================================
+Text Input
+======================================= */
+
+.stTextInput input{
+
+    border-radius:10px;
+
+}
+
+.stSelectbox{
+
+    border-radius:10px;
+
+}
+
+/* =======================================
+Success
+======================================= */
+
+.stSuccess{
+
+    border-radius:12px;
+
+}
+
+/* =======================================
+Warning
+======================================= */
+
+.stWarning{
+
+    border-radius:12px;
+
+}
+
+/* =======================================
+Error
+======================================= */
+
+.stError{
+
+    border-radius:12px;
+
+}
+
+/* =======================================
+Dataframe
+======================================= */
+
+[data-testid="stDataFrame"]{
+
+    border-radius:15px;
+
+}
+
+/* =======================================
+File Uploader
+======================================= */
+
+[data-testid="stFileUploader"]{
+
+    border-radius:15px;
+
+    border:2px dashed #2563EB;
+
+    background:white;
+
+}
+
+/* =======================================
+Charts
+======================================= */
+
+.js-plotly-plot{
+
+    border-radius:15px;
+
+}
+
+/* =======================================
+Footer
+======================================= */
+
+.custom-footer{
+
+    text-align:center;
+
+    color:#64748B;
+
+    margin-top:40px;
+
+}
